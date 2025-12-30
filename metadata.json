@@ -1,0 +1,5 @@
+{
+  "name": "EDUHUB: Academic Collaboration and Innovation",
+  "description": "A collaborative platform for college students to work on projects, featuring real-time chat, a shared code editor, and AI-powered research paper generation using the Gemini API.",
+  "requestFramePermissions": []
+}
