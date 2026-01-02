@@ -21,7 +21,7 @@ The application is designed with a scalable architecture and supports live updat
 
 ## 🧠 How It Works
 
-### Architecture Overview
+### The Architecture Overview
 
 | Layer            | Technology                          |
 | ---------------- | ----------------------------------- |
